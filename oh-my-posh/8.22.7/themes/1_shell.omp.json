@@ -108,7 +108,7 @@
             "always_enabled": true
           },
           "style": "plain",
-          "template": "<{{ if .Root }}lightBlue{{ else }}green{{ end }}></>{{ if .Root }}<lightRed>#</>{{ else }} ${{ end }} ",
+          "template": " $ ",
           "type": "exit"
         }
       ],
