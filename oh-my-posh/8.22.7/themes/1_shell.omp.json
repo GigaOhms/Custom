@@ -7,12 +7,13 @@
       "segments": [
         {
           "foreground": "#8ec07c",
-          "leading_diamond": "<#fbf1c7> 𝝅</>",
+          "leading_diamond": "<#fbf1c7> 𝛑 </>",
           "properties": {
             "display_host": true
           },
           "style": "diamond",
-          "template": "{{ .UserName }}<#fbf1c7> |</>",
+          // "template": "{{ .UserName }}<#fbf1c7> |</>",
+          "template": "GigaOhms<#fbf1c7> |</>",
           "type": "os"
         },
         {
